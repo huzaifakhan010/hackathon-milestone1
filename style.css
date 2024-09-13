@@ -53,7 +53,7 @@ button{
     display: block;
     width: 90px;
     padding: 10px;
-    background-color: rgb(91, 186, 203);
+    background-color: #4c7a98;
     border: none;
     border-radius: 3px;
     cursor: pointer;
@@ -68,4 +68,14 @@ button:hover{
 
 input{
     background-color: #eaf1f5;
+}
+
+#toggleSkills, #toggleExperience {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color:  rgb(91, 186, 203);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: rgb(43, 41, 41);
 }
